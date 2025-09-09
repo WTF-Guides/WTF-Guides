@@ -3,25 +3,41 @@
 🔶 Test 
 
 ![orange text](https://img.shields.io/badge/Start-Here-orange)
+
 Start here
+
 Start here revivers
+
 Fight better than top 100 players
+
 Leveling up guide
+
 Making money (Flying)
+
 Making Money (Trading)
+
 Making Money (investing/passive income)
+
 Making Money (companies [selling trains])
 
-
 Crimes / OC
+
 Hiding Money -- avoid being mugged
+
 Education Guide
+
 Merit Guide
+
 Chaining Guide
+
 War Guide
+
 Territory War guide
+
 Temporary weapon guide
+
 Useful scripts and tools
+
 Training Guide
 
 
