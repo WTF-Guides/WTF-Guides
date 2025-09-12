@@ -4,7 +4,14 @@
 
 ![orange text](https://img.shields.io/badge/Start-Here-orange)
 
-Start here
+
+
+## Table of Contents  
+
+| Guide | Purpose |
+|-------|---------|
+| [**Read This First**](https://github.com/WTF-Guides/Start-Here/blob/main/README.md) | What to expect, and what you should be doing in the game. |
+ 
 
 Start here revivers
 
