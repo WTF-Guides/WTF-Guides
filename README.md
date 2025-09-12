@@ -10,7 +10,7 @@
 
 | Guide | Purpose |
 |-------|---------|
-| [**Read This First**](https://github.com/WTF-Guides/Start-Here/blob/main/README.md) | What to expect, and what you should be doing in the game. |
+| [**Read This First**](https://github.com/WTF-Guides/Start-Here/blob/main/README.md) | What you should be doing in the game / faction |
  
 
 Start here revivers
