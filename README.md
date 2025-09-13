@@ -13,6 +13,7 @@
 | [**Read This First**](https://github.com/WTF-Guides/Start-Here/) | What you should be doing in the game / faction |
 | [**Leveling Guide**](https://github.com/WTF-Guides/Leveling-Up-Guide/)| How to quickly level up / Target List |
 | [**Flying Guide**](https://github.com/WTF-Guides/Making-Money-Flying/) | The best way to make money when you are new |
+| [**Crimes / Organized faction Crimes Guide**](https://github.com/WTF-Guides/Crimes-Guide) | Crimes are one of the top 3 ways to make money in the game, take your nerve bar serious! |
 
 Start here revivers
 
@@ -23,8 +24,6 @@ Making Money (Trading)
 Making Money (investing/passive income)
 
 Making Money (companies [selling trains])
-
-Crimes / OC
 
 Hiding Money -- avoid being mugged
 
