@@ -12,6 +12,7 @@
 |-------|---------|
 | [**Read This First**](https://github.com/WTF-Guides/Start-Here/) | What you should be doing in the game / faction |
 | [**Leveling Guide**](https://github.com/WTF-Guides/Leveling-Up-Guide/)| How to quickly level up / Target List |
+| [**Flying Guide**](https://github.com/WTF-Guides/Making-Money-Flying/) | The best way to make money when you are new |
 
 Start here revivers
 
