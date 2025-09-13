@@ -11,13 +11,11 @@
 | Guide | Purpose |
 |-------|---------|
 | [**Read This First**](https://github.com/WTF-Guides/Start-Here/blob/main/README.md) | What you should be doing in the game / faction |
- 
+| [**Leveling Guide**](https://github.com/WTF-Guides/Leveling-Up-Guide/blob/main/README.md)| How to quickly level up / Target List |
 
 Start here revivers
 
 Fight better than top 100 players
-
-Leveling up guide
 
 Making money (Flying)
 
