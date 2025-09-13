@@ -18,8 +18,6 @@ Start here revivers
 
 Fight better than top 100 players
 
-Making money (Flying)
-
 Making Money (Trading)
 
 Making Money (investing/passive income)
