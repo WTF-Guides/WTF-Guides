@@ -42,12 +42,3 @@ Temporary weapon guide
 Useful scripts and tools
 
 Training Guide
-
-- **Useful Scripts & Tools**:  
-  <https://www.torn.com/forums.php#/p=threads&f=999&t=16394508&b=1&a=29865>
-
-- **Training Guide — maximize gym gains**:  
-  <https://www.torn.com/forums.php#/p=threads&f=999&t=16400485&b=1&a=29865>
-
-- **Organized Crimes — what to join / brief explanation**:  
-  <https://www.torn.com/forums.php#/p=threads&f=999&t=16445453&b=1&a=29865>
